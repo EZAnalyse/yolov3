@@ -1,0 +1,11 @@
+# pycharm
+.idea/
+venv/
+
+# picture
+*.jpg
+
+# video
+*.mp4
+
+*.h5
